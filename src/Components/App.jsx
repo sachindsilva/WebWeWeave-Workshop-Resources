@@ -4,7 +4,7 @@ import React from "react";
 function App(){
     return(
         <div>
-            <h1 className="block font-mono font-bold text-4xl mx-[500px] text-sky-700 my-2 mt-6 text-center border border-1 rounded-md">
+            <h1 className="block font-mono font-bold text-4xl  text-sky-700 my-2 mt-6 text-center">
       " THE WEB WE WEAVE "
     </h1>
 
