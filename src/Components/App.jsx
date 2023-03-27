@@ -5,7 +5,7 @@ function App(){
     return(
         <div>
             <h1 className="block font-mono font-bold text-4xl  text-sky-700 my-2 mt-6 text-center">
-      " THE WEB WE WEAVE "
+      "THE WEB WE WEAVE"
     </h1>
 
     <h2 className="block text-center font-appleEmoji text-gray-400 font-light text-sm">Hands-on workshop for Reactjs | Tailwindcss</h2>
