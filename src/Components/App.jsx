@@ -21,7 +21,7 @@ function App() {
 
             <ReactCard/>
             
-            <SessionHeading subtitle="Session2: TailwindCSS - Utility-First CSS framework"/>
+            <SessionHeading subtitle="Session2: TailwindCSS - Utility First CSS Framework"/>
 
             <TailwindCard/>
         </div>
