@@ -2,7 +2,8 @@ import React from "react";
 import SubHeading from "./SubHeading";
 import Heading from "./Heading";
 import SessionHeading from "./SessionHeading";
-import Card from "./Card"
+import ReactCard from "./ReactCard"
+import TailwindCard from "./TailwindCard";
 
 function App() {
     return (
@@ -15,10 +16,14 @@ function App() {
                 Workshop Resources List
             </h1>
 
-            <SessionHeading />
+            <SessionHeading subtitle= "Session1: Reactjs - Front End Framework"/>
 
 
-            <Card/>
+            <ReactCard/>
+            
+            <SessionHeading subtitle="Session2: TailwindCSS - Utility-First CSS framework"/>
+
+            <TailwindCard/>
         </div>
     );
 }
