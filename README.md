@@ -2,7 +2,7 @@
 
 
 **Overview**
-- Visit the site [here](https://webweweave.onrender.com")
+- Visit the site **[here](https://webweweave.onrender.com)**
 <kbd>
 <img src="https://github.com/amppmann/WebWeWeave-Workshop-Resources/blob/main/Site-Images/image-1.png">
 </kbd>
