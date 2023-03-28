@@ -1,4 +1,3 @@
+## Official Web Resources for "The Web We Weave" Workshop
 
-```
-Sachin
-```
+> **Note**: Documentation to be updated...
