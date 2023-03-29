@@ -17,18 +17,18 @@ function TailwindResources() {
 
             {/* TAILWIND-CDN-Content Delivery Network   */}
 
-            
+
             <li><a className="hover:text-gray-900 duration-200" href="https://tailwindcss.com/docs/installation/play-cdn" target="_blank">Tailwind-CDN</a><span className="italic font-light"> (for production)</span></li>
 
             {/* TAILWIND CLI  */}
 
-            
+
             <li><a className="hover:text-gray-900 duration-200" href="https://tailwindcss.com/docs/installation" target="_blank">Tailwind CLI-Standalone Local Environment Installation</a><span className="italic font-light"> (optional)</span></li>
 
-            
+
             {/* TAILWIND-POSTCSS   */}
 
-            
+
             <li><a className="hover:text-gray-900 duration-200" href="https://tailwindcss.com/docs/installation/using-postcss" target="_blank">Tailwind-PostCSS Installation</a><span className="italic font-light"> (optional)</span></li>
 
 
@@ -76,6 +76,9 @@ function TailwindResources() {
             <li><a className="hover:text-gray-900 duration-200" href="https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss" target="_blank">Tailwind Intellisense for VSCode</a><span className="italic font-light block md:inline"> (Also Available under Extension Section in VSCode)</span></li>
 
 
+            {/* PNG TO SVG CONVERTER */}
+
+            <li><a className="hover:text-gray-900 duration-200" href="https://convertio.co/png-svg/" target="_blank">PNG to SVG Converter</a></li>
         </div>
     )
 }

@@ -4,6 +4,7 @@ import Heading from "./Heading";
 import SessionHeading from "./SessionHeading";
 import ReactCard from "./ReactCard"
 import TailwindCard from "./TailwindCard";
+import Footer from "./Footer";
 
 function App() {
     return (
@@ -24,6 +25,8 @@ function App() {
             <SessionHeading subtitle="Session2: TailwindCSS - Utility First CSS Framework"/>
 
             <TailwindCard/>
+
+            <Footer/>
         </div>
     );
 }
