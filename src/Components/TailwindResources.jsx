@@ -12,7 +12,7 @@ function TailwindResources() {
             {/* TAILWIND DOCS */}
 
 
-            <li><a className="hover:text-gray-900 duration-200" href="https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf" target="_blank">Tailwindcss Documentation</a></li>
+            <li><a className="hover:text-gray-900 duration-200" href="https://tailwindcss.com/docs/installation" target="_blank">Tailwindcss Documentation</a></li>
 
 
             {/* TAILWIND-CDN-Content Delivery Network   */}
