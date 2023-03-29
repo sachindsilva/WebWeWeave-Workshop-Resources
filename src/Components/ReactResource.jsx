@@ -55,6 +55,11 @@ function ReactResources() {
             {/* W3SCHOOLS */}
 
             <li><a className="hover:text-gray-900 duration-200" href="https://git-scm.com/docs" target="_blank">W3Schools</a><span className="italic font-light"> (React Startup Tutorial)</span></li>
+
+
+            {/* FONT AWESOME  */}
+
+            <li><a className="hover:text-gray-900 duration-200" href="https://fontawesome.com/" target="_blank">Font Awesome</a></li>
         </div>
     )
 }

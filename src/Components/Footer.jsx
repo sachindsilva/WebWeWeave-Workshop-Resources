@@ -12,8 +12,27 @@ function Footer() {
 
                 <div className="flex items-center border-1 justify-center px-10 py-5 border-gray-900 md:px-8 letter-spacing border border-1 border-red-500">Made with ♥ by Sachin Dsilva</div>
 
-                
-                <div className="flex items-center border-1 justify-center px-10 py-5 border-gray-900 md:px-8 letter-spacing border border-1 border-red-500">Made with ♥ by Sachin Dsilva</div>
+
+                <div className="flex items-center border-1 justify-center px-10 py-5 border-gray-900 md:px-8 letter-spacing border border-1 border-red-500 space-x-3 hover:grayscale ">
+
+                    {/* GITHUB  */}
+                    <a href="#" className="hover:scale-110  duration-200">
+                    <i class="fa-brands fa-github fa-beat-fade fa-xl " style={{color: "#080808"}}></i>
+                    </a>
+
+                    {/* INSTAGRAM  */}
+                    <a href="#" className="hover:scale-110">
+                    <i class="fa-brands fa-instagram fa-beat-fade fa-xl" style={{color: "#f71844"}}></i>
+                    </a>
+
+
+
+                    {/* LINKEDIN  */}
+
+                    <a href="#" className="hover:scale-110">
+                    <i class="fa-brands fa-instagram fa-beat-fade fa-xl" style={{color: "#f71844"}}></i>
+                    </a>
+                </div>
             </div>
         </footer>
     );
