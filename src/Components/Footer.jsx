@@ -16,12 +16,12 @@ function Footer() {
                 <div className="flex items-center border-1 justify-center px-10 py-5 border-gray-900 md:px-8 letter-spacing  space-x-3 ">
 
                     {/* GITHUB  */}
-                    <a href="#" className="hover:scale-110  hover:grayscale duration-200">
+                    <a href="https://github.com/sachindsilva16" className="hover:scale-110  hover:grayscale duration-200">
                     <i className="fa-brands fa-github fa-beat-fade fa-xl " style={{color: "#080808"}}></i>
                     </a>
 
                     {/* INSTAGRAM  */}
-                    <a href="#" className="hover:scale-110 hover:grayscale duration-200">
+                    <a href="https://www.instagram.com/sachin.dsilva_/" className="hover:scale-110 hover:grayscale duration-200">
                     <i className="fa-brands fa-instagram fa-beat-fade fa-xl" style={{color: "#f71844"}}></i>
                     </a>
 
@@ -29,7 +29,7 @@ function Footer() {
 
                     {/* LINKEDIN  */}
 
-                    <a href="#" className="hover:scale-110 hover:grayscale duration-200">
+                    <a href="https://www.linkedin.com/in/sachin-dsilva-43169a1bb" className="hover:scale-110 hover:grayscale duration-200">
                     <i className="fa-brands fa-linkedin fa-beat-fade fa-xl" style={{color: "#1a6eff"}}></i>
                     </a>
 
@@ -37,13 +37,13 @@ function Footer() {
                     {/* TWITTER  */}
                     
                     
-                    <a href="#" className="hover:scale-110 hover:grayscale duration-200">
+                    <a href="https://twitter.com/sachinrons123" className="hover:scale-110 hover:grayscale duration-200">
                     <i className="fa-brands fa-twitter fa-beat-fade fa-xl" style={{color: "#1899fb"}}></i>
                     </a>
 
                     {/* TELEGRAM  */}
                     
-                    <a href="#" className="hover:scale-110 hover:grayscale duration-200">
+                    <a href="https://t.me/ise_nmamit" className="hover:scale-110 hover:grayscale duration-200">
                     <i className="fa-brands fa-telegram fa-beat-fade fa-xl" style={{color: "#7370ff"}}></i>
                     </a>
                 </div>
