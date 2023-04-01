@@ -41,6 +41,11 @@ function ReactResources() {
 
 
 
+            {/* BABEL COMPILER */}
+
+            <li><a className="hover:text-gray-900 duration-200" href="https://babeljs.io/" target="_blank">Git</a><span className="italic font-light"> JSX Transcompiler</span></li>
+
+
             {/* GIT */}
 
             <li><a className="hover:text-gray-900 duration-200" href="https://git-scm.com/" target="_blank">Git</a><span className="italic font-light"> (For Git Bash Terminal)</span></li>
