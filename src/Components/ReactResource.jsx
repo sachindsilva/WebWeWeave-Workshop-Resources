@@ -11,6 +11,12 @@ function ReactResources() {
 
             <li><a className="hover:text-gray-900 duration-200" href="https://legacy.reactjs.org/" target="_blank">Reactjs Documentation</a></li>
 
+                
+            <li><a className="hover:text-gray-900 duration-200" href="https://www.freecodecamp.org/news/react-hooks-cheatsheet/" target="_blank">List of Hooks in React</a></li>
+    
+                
+                
+                
             {/* GITHUB README: LOCAL ENVIRONMENT INSTALLATION SETUP FOR REACT  */}
             <li><a className="hover:text-gray-900 duration-200" href="https://github.com/amppmann/WebWeWeave-Workshop-Resources/blob/main/README.md" target="_blank">Local Environment Installation Setup Guide for React App</a></li>
 
@@ -61,6 +67,10 @@ function ReactResources() {
             <li><a className="hover:text-gray-900 duration-200" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">MDN Docs</a></li>
 
 
+                
+                
+                
+                
             {/* W3SCHOOLS */}
 
             <li><a className="hover:text-gray-900 duration-200" href="https://git-scm.com/docs" target="_blank">W3Schools</a><span className="italic font-light"> (React Startup Tutorial)</span></li>
