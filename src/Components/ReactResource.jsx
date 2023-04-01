@@ -62,9 +62,7 @@ function ReactResources() {
 
             <li><a className="hover:text-gray-900 duration-200" href="https://git-scm.com/docs" target="_blank">Git Documentation</a></li>
 
-            </*MDN DOCS*/}
-                
-            <li><a className="hover:text-gray-900 duration-200" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">MDN Docs</a></li>
+          
                 
             {/* W3SCHOOLS */}
 
