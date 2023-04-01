@@ -43,7 +43,7 @@ function ReactResources() {
 
             {/* BABEL COMPILER */}
 
-            <li><a className="hover:text-gray-900 duration-200" href="https://babeljs.io/" target="_blank">Git</a><span className="italic font-light"> JSX Transcompiler</span></li>
+            <li><a className="hover:text-gray-900 duration-200" href="https://babeljs.io/" target="_blank">Babeljs.io</a><span className="italic font-light"> JSX Transcompiler</span></li>
 
 
             {/* GIT */}
