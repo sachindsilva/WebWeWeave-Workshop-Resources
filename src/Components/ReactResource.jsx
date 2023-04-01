@@ -12,7 +12,7 @@ function ReactResources() {
             <li><a className="hover:text-gray-900 duration-200" href="https://legacy.reactjs.org/" target="_blank">Reactjs Documentation</a></li>
 
             {/* GITHUB README: LOCAL ENVIRONMENT INSTALLATION SETUP FOR REACT  */}
-            <li><a className="hover:text-gray-900 duration-200" href="https://github.com/sachindsilva16/Reactjs-Workshop/tree/main#readme" target="_blank">Local Environment Installation Setup for React App</a></li>
+            <li><a className="hover:text-gray-900 duration-200" href="https://github.com/sachindsilva16/Reactjs-Workshop/tree/main#readme" target="_blank">Local Environment Installation Setup Guide for React App</a></li>
 
 
             {/* NODEJS  */}
